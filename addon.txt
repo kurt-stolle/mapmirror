@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"			"Mirror World"
+	"version"		"CB 3.0"
+	"up_date"		"16 August 2014"
+	"author_name"		"Excl"
+	"author_email"		"info@casualbananas.com"
+	"author_url"		"casualbananas.com"
+	"info"			"100% clientside and updated version of the old MirrorWorld script by Excl (2008)."
+	"override"		"0"
+}

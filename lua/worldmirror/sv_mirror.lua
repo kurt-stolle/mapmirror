@@ -1,0 +1,1 @@
+local cvForced = CreateConVar("map_mirror_forced","0",{FCVAR_ARCHIVE,FCVAR_NOTIFY,FCVAR_REPLICATED,FCVAR_SERVER_CAN_EXECUTE});
